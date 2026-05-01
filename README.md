@@ -130,6 +130,6 @@ Handles admin operations: add/view/update/cancel trains, view income.
 ## 👨‍💻 Author
 
 **Your Name**  : Taha Bajwa
-GitHub: [@your-username](tahabajwaa888-lab)
+GitHub: (tahabajwaa888-lab)
 
 
